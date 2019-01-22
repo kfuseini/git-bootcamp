@@ -11,6 +11,9 @@
  * It uses a singly-linked list to represent the set of queue elements
  */
 
+
+// Kamal's changes for git bootcamp
+
 #include <stdlib.h>
 #include <stdio.h>
 #include <string.h>
